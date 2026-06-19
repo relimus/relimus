@@ -2,7 +2,7 @@
 
 ### Environments
 
-[![ArchLinux](https://img.shields.io/badge/ArchLinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org/)
+[![CachyOS](https://img.shields.io/badge/CachyOS-00AA88?style=for-the-badge&logo=cachyos&logoColor=white)](https://cachyos.org/)
 [![Android](https://img.shields.io/badge/Android-00C000?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-16/)
 
 ### Devices
