@@ -2,7 +2,7 @@
 
 ### Environments
 
-[![CachyOS](https://img.shields.io/badge/CachyOS-00AA88?style=for-the-badge&logo=cachyos&logoColor=white)](https://cachyos.org/)
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/)
 [![Android](https://img.shields.io/badge/Android-00C000?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-16/)
 
 ### Devices
